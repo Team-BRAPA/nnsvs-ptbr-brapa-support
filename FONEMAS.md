@@ -21,7 +21,7 @@ Esta lista será separada entre BRAPA, X-Sampa e exemplos tendo uma área para o
 | u | u | S<ins>**u**</ins>l |  |
 | un | u~ | M<ins>**un**</ins>do |  |
 | u0 | U | Solt<ins>**o**</ins> |  |
-| @` | rh | Ca<ins>**r**</ins>ne / Pe<ins>**r**</ins>to | Erre caipira |
+| @\` | rh | Ca<ins>**r**</ins>ne / Pe<ins>**r**</ins>to | Erre caipira |
 
 *[i0] e [o0] geralmente encontrados em finais de palavras ou em palavras e frases com sílabas repetitivas
 
@@ -83,6 +83,10 @@ Esta lista será separada entre BRAPA, X-Sampa e exemplos tendo uma área para o
 | Fonema | Exemplo | Descrição |
 |--|--|--|
 | pau | Silêncio | Usado em áreas não cantadas/em silêncio |
-| x | Parada Glotal | Breve fechamento das cordas vocais |
-| x | Vocal Fry (Voz Crepitante)| Um som baixo e áspero que ocupa a extensão vocal abaixo da voz modal |
-| x | Oclusão | Oclusão de uma sílaba plosiva, quando você segura a sílaba antes de pronunciar, comum no Japonês.|
+| exh | Expiração | Respiração final surda encontrada em finais de frases |
+| axh | Solta | Variação sonora de \[exh] |
+| cl | Oclusão | Oclusão de uma sílaba plosiva, quando você segura a sílaba antes de pronunciar, comum no Japonês.|
+| vf | Vocal Fry (Voz Crepitante)| Um som baixo e áspero que ocupa a extensão vocal abaixo da voz modal |
+| q | Parada Glotal | Breve fechamento das cordas vocais |
+
+*Alguns dos fonemas acima seguem os padrões dos arquivos feito pela [DYVAUX](https://github.com/DYVAUX) e são utilizados com a autorização dos mesmos.
