@@ -27,6 +27,6 @@ https://user-images.githubusercontent.com/68165064/181655361-4cf0d0fa-f70f-464d-
 ## ➕ Additional Information
 The .hed files were created by hand using as a base the files available within the NNSVS repository
 
-[FONETICA.md](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/FONETICA.md) (only in portuguese) is a file that contains all BRAPA phonetics converted into X-Sampa + additional phonetics with examples
+[FONEMAS.md](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/FONEMAS.md) (only in portuguese) is a file that contains all BRAPA phonetics converted into X-Sampa + additional phonetics with examples
 
 ⚠️ **IMPORTANT:** When using these project files, modifying them or not, carefully read the license found in [LICENSE](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/LICENSE) and credit the **Team BRAPA** (HAI-D, Nachokuma, Xiao, Fuka, Kaiske) within your model/file
