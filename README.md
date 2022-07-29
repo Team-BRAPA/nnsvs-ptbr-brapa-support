@@ -1,7 +1,7 @@
 # nnsvs-ptbr-brapa-support
 Projeto de suporte a língua Portuguesa Brasileira para o sintetizador AI [NNSVS](https://github.com/nnsvs/nnsvs) utilizando a conotação [BRAPA](https://github.com/overdramatic/BRAPA)
 
-🇺🇸 If you want to read this file in English, [click here](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/README_EN.md)
+🇺🇸 If you want to read this file in English, [click here](README_EN.md)
 
 Este repositório fornece arquivos hed e a tabela dicionário para criar um modelo de canto AI em Português Brasileiro com suporte a diversos sotaques do idioma. 
 
@@ -26,6 +26,6 @@ https://user-images.githubusercontent.com/68165064/181655361-4cf0d0fa-f70f-464d-
 ## ➕ Informações Adicionais
 Os arquivos .hed foram criados a mão utilizando como base os arquivos disponibilizados dentro do NNSVS
 
-[FONEMAS.md](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/FONEMAS.md) é um arquivo que contém toda a fonética BRAPA convertida em X-Sampa + fonética adicionais e com exemplos
+[FONEMAS.md](FONEMAS.md) é um arquivo que contém toda a fonética BRAPA convertida em X-Sampa + fonética adicionais e com exemplos
 
-⚠️ **IMPORTANTE:** Ao utilizar estes arquivos de projeto, modificando-as ou não, leia atentamente a licença encontrada no [LICENSE](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/LICENSE) e credite o **Time BRAPA** (HAI-D, Nachokuma, Xiao, Fuka, Kaiske) dentro do seu modelo/arquivo
+⚠️ **IMPORTANTE:** Ao utilizar estes arquivos de projeto, modificando-as ou não, leia atentamente a licença encontrada no [LICENSE](LICENSE.md) e credite o **Time BRAPA** (HAI-D, Nachokuma, Xiao, Fuka, Kaiske) dentro do seu modelo/arquivo
