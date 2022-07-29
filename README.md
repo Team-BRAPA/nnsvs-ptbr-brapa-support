@@ -29,7 +29,3 @@ Os arquivos .hed foram criados a mão utilizando como base os arquivos disponibi
 [FONETICA.md](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/FONETICA.md) é um arquivo que contém toda a fonética BRAPA convertida em X-Sampa + fonética adicionais e com exemplos
 
 ⚠️ **IMPORTANTE:** Ao utilizar estes arquivos de projeto, modificando-as ou não, leia atentamente a licença encontrada no [LICENSE](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/LICENSE) e credite o **Time BRAPA** (HAI-D, Nachokuma, Xiao, Fuka, Kaiske) dentro do seu modelo/arquivo
-
-
-
-
