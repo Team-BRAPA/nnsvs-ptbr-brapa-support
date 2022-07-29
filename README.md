@@ -1,5 +1,5 @@
 # nnsvs-ptbr-brapa-support
-Projeto de suporte a língua portuguesa brasileira para o sintetizador AI [NNSVS](https://github.com/nnsvs/nnsvs) utilizando a conotação [BRAPA](https://github.com/overdramatic/BRAPA)
+Projeto de suporte a língua Portuguesa Brasileira para o sintetizador AI [NNSVS](https://github.com/nnsvs/nnsvs) utilizando a conotação [BRAPA](https://github.com/overdramatic/BRAPA)
 
 🇺🇸 If you want to read this file in English, [click here](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/README_EN.md)
 
