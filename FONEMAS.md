@@ -21,7 +21,7 @@ Esta lista será separada entre BRAPA, X-Sampa e exemplos tendo uma área para o
 | u | u | S<ins>**u**</ins>l |  |
 | un | u~ | M<ins>**un**</ins>do |  |
 | u0 | U | Solt<ins>**o**</ins> |  |
-| @` | rh | C<ins>**ar**</ins>ne / P<ins>**er**</ins>to | Erre caipira |
+| @` | rh | Ca<ins>**r**</ins>ne / Pe<ins>**r**</ins>to | Erre caipira |
 
 *[i0] e [o0] geralmente encontrados em finais de palavras ou em palavras e frases com sílabas repetitivas
 
