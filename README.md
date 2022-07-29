@@ -1,7 +1,7 @@
 # nnsvs-ptbr-brapa-support
 Projeto de suporte a língua portuguesa brasileira para o sintetizador AI [NNSVS](https://github.com/nnsvs/nnsvs) utilizando a conotação [BRAPA](https://github.com/overdramatic/BRAPA)
 
-🇺🇸 If you want to read this file in English, [click here](#)
+🇺🇸 If you want to read this file in English, [click here](https://github.com/overdramatic/nnsvs-ptbr-brapa-support/blob/main/README_EN.md)
 
 Este repositório fornece arquivos hed e a tabela dicionário para criar um modelo de canto AI em Português Brasileiro com suporte a diversos sotaques do idioma. 
 
