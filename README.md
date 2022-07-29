@@ -12,7 +12,7 @@ Este repositório fornece arquivos hed e a tabela dicionário para criar um mode
 	 `nnsvs_ptbr_brapa.hed` - arquivo .hed contendo os fonemas mais comuns entre os sotaques do Brasil para o treino 
 	 
 	 `nnsvs_ptbr_brapa_full.hed` - arquivo .hed contendo todos os fonemas encontrado na tabela BRAPA. Não recomendado para treino 
- 2. /dict
+ 2. /dic
  
 	 `dict.table` - tabela contendo apenas fonemas utilizados na lista BRAPA comum
 	 
