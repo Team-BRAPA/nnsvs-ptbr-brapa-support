@@ -1,6 +1,6 @@
 ## 🔠 Fonemas
 Lista com **todos os fonemas** encontrados no repositório do BRAPA com fonemas adicionais para conveniência de uso.
-Esta lista será separada entre BRAPA, X-Sampa e exemplos tendo uma área para os fonemas da .hed recomendada e os extras da lista full
+Esta lista está separada em BRAPA, X-Sampa e exemplos tendo uma área para os fonemas da .hed recomendada e os extras da lista full
 
 ## Vogais
 | BRAPA | X-SAMPA | Exemplo | Descrição |
