@@ -23,7 +23,7 @@ Esta lista está separada em BRAPA, X-Sampa e exemplos tendo uma área para os f
 | u0 | U | Solt<ins>**o**</ins> |  |
 | @\` | rh | Ca<ins>**r**</ins>ne / Pe<ins>**r**</ins>to | Erre caipira |
 
-*[i0] e [o0] geralmente encontrados em finais de palavras ou em palavras e frases com sílabas repetitivas
+*\[i0] e \[u0] geralmente encontrados em finais de palavras ou em palavras e frases com sílabas repetitivas
 
 ### FULL
 | BRAPA | X-SAMPA | Exemplo | Descrição |
