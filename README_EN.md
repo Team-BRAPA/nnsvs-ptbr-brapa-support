@@ -9,11 +9,11 @@ This repository provides hed files and the dictionary table to create an AI sing
 
  1. /hed 
 
- 	`brapa_ptbr.hed` - .hed file containing the most common phonemes among Brazilian accents for training
+ 	`brapa.hed` - .hed file containing the most common phonemes among Brazilian accents for training
   
  2. /dic
 
-	`dict.table` - table containing phonemes used from the BRAPA list
+	`brapa_phonemes.table` - table containing phonemes used from the BRAPA list
 
 ## 🎶 Example
 Example of model trained with 8 minutes of data, using [OpenUtau](https://github.com/stakira/OpenUtau) as an editing tool
