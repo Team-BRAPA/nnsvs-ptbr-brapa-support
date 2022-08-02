@@ -9,7 +9,7 @@ This repository provides hed files and the dictionary table to create an AI sing
 
  1. /hed 
 
- 	`nnsvs_ptbr_brapa.hed` - .hed file containing the most common phonemes among Brazilian accents for training
+ 	`brapa_ptbr.hed` - .hed file containing the most common phonemes among Brazilian accents for training
   
  2. /dic
 
