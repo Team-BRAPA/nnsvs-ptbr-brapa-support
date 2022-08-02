@@ -9,7 +9,7 @@ Este repositório fornece arquivos hed e a tabela dicionário para criar um mode
 
  1. /hed
  
-	 `nnsvs_ptbr_brapa.hed` - arquivo .hed contendo os fonemas mais comuns entre os sotaques do Brasil para o treino 
+	 `brapa_ptbr.hed` - arquivo .hed contendo os fonemas mais comuns entre os sotaques do Brasil para o treino 
 	 
  2. /dic
  
