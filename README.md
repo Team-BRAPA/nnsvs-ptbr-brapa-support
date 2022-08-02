@@ -13,7 +13,7 @@ Este repositório fornece arquivos hed e a tabela dicionário para criar um mode
 	 
  2. /dic
  
-	 `dict.table` - tabela contendo todos os fonemas utilizados na lista BRAPA
+	 `dict.table` - tabela contendo fonemas utilizados da lista BRAPA
 
 ## 🎶 Exemplo
 Exemplo de modelo treinado com 8 minutos de dado, utilizando [OpenUtau](https://github.com/stakira/OpenUtau) como ferramenta de edição
