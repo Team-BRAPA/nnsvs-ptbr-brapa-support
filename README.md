@@ -11,7 +11,7 @@ Este repositório fornece arquivos hed e a tabela dicionário para criar um mode
  
 	 `brapa.hed` - arquivo .hed contendo os fonemas mais comuns entre os sotaques do Brasil para o treino 
 	 
-	 `brapa_full.hed` - arquivo .hed contendo TODOS os fonemas da lista BRAPA 
+	 `brapa_full.hed` - arquivo .hed contendo TODOS os fonemas da lista BRAPA - ⚠️ Adicionado para estudos, não recomendado a utilização
 	 
  2. /dic
  
@@ -27,4 +27,4 @@ Os arquivos .hed foram criados a mão utilizando como base os arquivos disponibi
 
 [FONEMAS.md](FONEMAS.md) é um arquivo que contém toda a fonética BRAPA convertida em X-Sampa + fonética adicionais e com exemplos
 
-⚠️ **IMPORTANTE:** Ao utilizar estes arquivos de projeto, modificando-as ou não, leia atentamente a licença encontrada no [LICENSE](LICENSE.md) e credite o **Time BRAPA** (HAI-D, Nachokuma, Xiao, Fuka, Kaiske) dentro do seu modelo/arquivo
+ **IMPORTANTE:** Ao utilizar estes arquivos de projeto, modificando-as ou não, leia atentamente a licença encontrada no [LICENSE](LICENSE.md) e credite o **Time BRAPA** (HAI-D, Nachokuma, Xiao, Fuka, Kaiske) dentro do seu modelo/arquivo
