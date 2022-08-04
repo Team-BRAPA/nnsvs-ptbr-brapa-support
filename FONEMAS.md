@@ -53,7 +53,6 @@ Esta lista está separada em BRAPA, X-Sampa e exemplos tendo uma área para os f
 | k | k | <ins>**C**</ins>or |  |
 | l | l | <ins>**L**</ins>ágrima |  |
 | lh | L | Pa<ins>**lh**</ins>aço |  |
-| l0 | 5 | <ins>**L**</ins>ivro | Somente encontrado em início de palavras |
 | m | m | <ins>**M**</ins>ês |  |
 | n | n | <ins>**N**</ins>avio |  |
 | ng | N | Ma<ins>**ng**</ins>a |  |
@@ -78,6 +77,7 @@ Esta lista está separada em BRAPA, X-Sampa e exemplos tendo uma área para os f
 | bv | B | Ca<ins>**b**</ins>o | Bê espanhol |
 | gv | G | A<ins>**g**</ins>ora | Gê espanhol |
 | hr | R | <ins>**R**</ins>anço | Regional |
+| l0 | 5 | <ins>**L**</ins>ivro | Somente encontrado em início de palavras |
 
 ## Outros / Adicionais
 | Fonema | Exemplo | Descrição |

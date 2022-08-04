@@ -11,9 +11,11 @@ Este repositório fornece arquivos hed e a tabela dicionário para criar um mode
  
 	 `brapa.hed` - arquivo .hed contendo os fonemas mais comuns entre os sotaques do Brasil para o treino 
 	 
+	 `brapa_full.hed` - arquivo .hed contendo TODOS os fonemas da lista BRAPA 
+	 
  2. /dic
  
-	 `brapa_phonemes.table` - tabela contendo fonemas utilizados da lista BRAPA
+	 `brapa_phonemes.table` - tabela contendo todos os fonemas da lista BRAPA
 
 ## 🎶 Exemplo
 Exemplo de modelo treinado com 8 minutos de dado, utilizando [OpenUtau](https://github.com/stakira/OpenUtau) como ferramenta de edição
