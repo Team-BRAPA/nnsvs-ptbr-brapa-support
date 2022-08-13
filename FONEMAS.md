@@ -88,5 +88,6 @@ Esta lista está separada em BRAPA, X-Sampa e exemplos tendo uma área para os f
 | cl | Oclusão | Oclusão de uma sílaba plosiva, quando você segura a sílaba antes de pronunciar, comum no Japonês.|
 | vf | Vocal Fry (Voz Crepitante)| Um som baixo e áspero que ocupa a extensão vocal abaixo da voz modal |
 | q | Parada Glotal | Breve fechamento das cordas vocais |
+| xxx | Lixo | Utilizado para retirar fonemas que não estão na lista acima ou pequenos erros |
 
 *Alguns dos fonemas acima seguem os padrões dos arquivos feito pela [DYVAUX](https://github.com/DYVAUX) e são utilizados com a autorização dos mesmos.

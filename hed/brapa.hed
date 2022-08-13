@@ -1,8 +1,8 @@
 # BRAPA HED for NNSVS
 # Made by Team BRAPA
-# in_dim: 263(duration/timelag), 267(acoustic)
+# in_dim: 266(duration/timelag), 270(acoustic)
 # in_rest_idx: 1
-# in_lfx0_idx: 211
+# in_lfx0_idx: 214
 
 # Phonetic definitions
 
@@ -232,6 +232,9 @@ QS  "R-j"                   {*+j=*}
 QS  "L-z"                   {*^z-*}
 QS  "C-z"                   {*-z+*}
 QS  "R-z"                   {*+z=*}
+QS  "L-xxx"                 {*^xxx-*}
+QS  "C-xxx"                 {*-xxx+*}
+QS  "R-xxx"                 {*+xxx=*}
 
 # Copy from NNSVS HED
 
