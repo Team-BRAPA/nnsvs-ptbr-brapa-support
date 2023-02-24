@@ -188,9 +188,9 @@ QS  "R-nh"                  {*+nh=*}
 QS  "L-p"                   {*^p-*}
 QS  "C-p"                   {*-p+*}
 QS  "R-p"                   {*+p=*}
-QS  "L-xr"                  {*^rw-*}
-QS  "C-xr"                  {*-rw+*}
-QS  "R-xr"                  {*+rw=*}
+QS  "L-rw"                  {*^rw-*}
+QS  "C-rw"                  {*-rw+*}
+QS  "R-rw"                  {*+rw=*}
 QS  "L-r"                   {*^r-*}
 QS  "C-r"                   {*-r+*}
 QS  "R-r"                   {*+r=*}
