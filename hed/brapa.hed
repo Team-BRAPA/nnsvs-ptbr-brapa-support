@@ -1,8 +1,9 @@
 # BRAPA HED for NNSVS
 # Made by Team BRAPA
-# in_dim: 269(duration/timelag), 273(acoustic)
+# in_dim: 247(duration/timelag), 251(acoustic)
 # in_rest_idx: 1
 # in_lfx0_idx: 217
+# vowels: a,ax,an,e,en,eh,ae,i,in,i0,o,on,oh,u,un,u0,rh
 
 # Phonetic definitions
 
@@ -22,9 +23,9 @@ QS  "L-Semi-Vowels"         {*^y-*,*^w-*}
 QS  "C-Semi-Vowels"         {*-y+*,*-w+*}
 QS  "R-Semi-Vowels"         {*+y=*,*+w=*}
 
-QS  "L-Consonants"          {*^b-*,*^d-*,*^dj-*,*^f-*,*^g-*,*^k-*,*^l-*,*^lh-*,*^l0-*,*^m-*,*^n-*,*^ng-*,*^nh-*,*^p-*,*^rw-*,*^r-*,*^rh-*,*^rr-*,*^h-*,*^s-*,*^sh-*,*^t-*,*^ch-*,*^v-*,*^x-*,*^j-*,*^z-*}
-QS  "C-Consonants"          {*-b+*,*-d+*,*-dj+*,*-f+*,*-g+*,*-k+*,*-l+*,*-lh+*,*-l0+*,*-m+*,*-n+*,*-ng+*,*-nh+*,*-p+*,*-rw+*,*-r+*,*-rh+*,*-rr+*,*-h+*,*-s+*,*-sh+*,*-t+*,*-ch+*,*-v+*,*-x+*,*-j+*,*-z+*}
-QS  "R-Consonants"          {*+b=*,*+d=*,*+dj=*,*+f=*,*+g=*,*+k=*,*+l=*,*+lh=*,*+l0=*,*+m=*,*+n=*,*+ng=*,*+nh=*,*+p=*,*+rw=*,*+r=*,*+rh=*,*+rr=*,*+h=*,*+s=*,*+sh=*,*+t=*,*+ch=*,*+v=*,*+x=*,*+j=*,*+z=*}
+QS  "L-Consonants"          {*^b-*,*^ch-*,*^d-*,*^dj-*,*^f-*,*^g-*,*^h-*,*^j-*,*^k-*,*^l-*,*^lh-*,*^m-*,*^n-*,*^ng-*,*^nh-*,*^p-*,*^r-*,*^rr-*,*^rw-*,*^s-*,*^sh-*,*^t-*,*^v-*,*^x-*,*^z-*}
+QS  "C-Consonants"          {*-b+*,*-ch+*,*-d+*,*-dj+*,*-f+*,*-g+*,*-h+*,*-j+*,*-k+*,*-l+*,*-lh+*,*-m+*,*-n+*,*-ng+*,*-nh+*,*-p+*,*-r+*,*-rr+*,*-rw+*,*-s+*,*-sh+*,*-t+*,*-v+*,*-x+*,*-z+*}
+QS  "R-Consonants"          {*+b=*,*+ch=*,*+d=*,*+dj=*,*+f=*,*+g=*,*+h=*,*+j=*,*+k=*,*+l=*,*+lh=*,*+m=*,*+n=*,*+ng=*,*+nh=*,*+p=*,*+r=*,*+rr=*,*+rw=*,*+s=*,*+sh=*,*+t=*,*+v=*,*+x=*,*+z=*}
 
 QS  "L-Nasals"              {*^m-*,*^n-*,*^ng-*,*^nh-*}
 QS  "C-Nasals"              {*-m+*,*-n+*,*-ng+*,*-nh+*}
@@ -34,9 +35,9 @@ QS  "L-UnvoicedFricatives"  {*^f-*,*^h-*,*^s-*,*^sh-*,*^x-*}
 QS  "C-UnvoicedFricatives"  {*-f+*,*-h+*,*-s+*,*-sh+*,*-x+*}
 QS  "R-UnvoicedFricatives"  {*+f=*,*+h=*,*+s=*,*+sh=*,*+x=*}
 
-QS  "L-VoicedFricatives"    {*^v-*,*^z-*,*^j-*}
-QS  "C-VoicedFricatives"    {*-v+*,*-z+*,*-j+*}
-QS  "R-VoicedFricatives"    {*+v=*,*+z=*,*+j=*}
+QS  "L-VoicedFricatives"    {*^j-*,*^v-*,*^z-*}
+QS  "C-VoicedFricatives"    {*-j+*,*-v+*,*-z+*}
+QS  "R-VoicedFricatives"    {*+j=*,*+v=*,*+z=*}
 
 QS  "L-UnvoicedAfricates"   {*^ch-*}
 QS  "C-UnvoicedAfricates"   {*-ch+*}
@@ -58,17 +59,17 @@ QS  "L-VoicedPlosives"      {*^b-*,*^d-*,*^g-*,*^r-*,*^rr-*}
 QS  "C-VoicedPlosives"      {*-b+*,*-d+*,*-g+*,*-r+*,*-rr+*}
 QS  "R-VoicedPlosives"      {*+b=*,*+d=*,*+g=*,*+r=*,*+rr=*}
 
-QS  "L-Rhotic"              {*^rh-*,*^rw-*,*^h-*,*^x-*}
-QS  "C-Rhotic"              {*-rh+*,*-rw+*,*-h+*,*-x+*}
-QS  "R-Rhotic"              {*+rh=*,*+rw=*,*+h=*,*+x=*}
+QS  "L-Rhotic"              {*^h-*,*^rw-*,*^x-*}
+QS  "C-Rhotic"              {*-h+*,*-rw+*,*-x+*}
+QS  "R-Rhotic"              {*+h=*,*+rw=*,*+x=*}
 
-QS  "L-VUV_Voiced"          {*^a-*,*^ax-*,*^an-*,*^e-*,*^en-*,*^eh-*,*^ae-*,*^i-*,*^in-*,*^o-*,*^on-*,*^oh-*,*^u-*,*^un-*,*^rh-*,*^y-*,*^w-*,*^m-*,*^n-*,*^ng-*,*^nh-*,*^v-*,*^z-*,*^j-*,*^dj-*,*^l-*,*^lh-*,*^rw-*,*^b-*,*^d-*,*^g-*,*^r-*,*^rr-*}
-QS  "C-VUV_Voiced"          {*-a+*,*-ax+*,*-an+*,*-e+*,*-en+*,*-eh+*,*-ae+*,*-i+*,*-in+*,*-o+*,*-on+*,*-oh+*,*-u+*,*-un+*,*-rh+*,*-y+*,*-w+*,*-m+*,*-n+*,*-ng+*,*-nh+*,*-v+*,*-z+*,*-j+*,*-dj+*,*-l+*,*-lh+*,*-rw+*,*-b+*,*-d+*,*-g+*,*-r+*,*-rr+*}
-QS  "R-VUV_Voiced"          {*+a=*,*+ax=*,*+an=*,*+e=*,*+en=*,*+eh=*,*+ae=*,*+i=*,*+in=*,*+o=*,*+on=*,*+oh=*,*+u=*,*+un=*,*+rh=*,*+y=*,*+w=*,*+m=*,*+n=*,*+ng=*,*+nh=*,*+v=*,*+z=*,*+j=*,*+dj=*,*+l=*,*+lh=*,*+rw=*,*+b=*,*+d=*,*+g=*,*+r=*,*+rr=*}
+QS  "L-VUV_Voiced"          {*^a-*,*^ax-*,*^an-*,*^e-*,*^en-*,*^eh-*,*^ae-*,*^i-*,*^in-*,*^o-*,*^on-*,*^oh-*,*^u-*,*^un-*,*^rh-*,*^y-*,*^w-*,*^m-*,*^n-*,*^ng-*,*^nh-*,*^v-*,*^z-*,*^j-*,*^dj-*,*^l-*,*^lh-*,*^rw-*,*^b-*,*^d-*,*^g-*,*^r-*,*^rr-*,^axh-*}
+QS  "C-VUV_Voiced"          {*-a+*,*-ax+*,*-an+*,*-e+*,*-en+*,*-eh+*,*-ae+*,*-i+*,*-in+*,*-o+*,*-on+*,*-oh+*,*-u+*,*-un+*,*-rh+*,*-y+*,*-w+*,*-m+*,*-n+*,*-ng+*,*-nh+*,*-v+*,*-z+*,*-j+*,*-dj+*,*-l+*,*-lh+*,*-rw+*,*-b+*,*-d+*,*-g+*,*-r+*,*-rr+*,*-axh+*}
+QS  "R-VUV_Voiced"          {*+a=*,*+ax=*,*+an=*,*+e=*,*+en=*,*+eh=*,*+ae=*,*+i=*,*+in=*,*+o=*,*+on=*,*+oh=*,*+u=*,*+un=*,*+rh=*,*+y=*,*+w=*,*+m=*,*+n=*,*+ng=*,*+nh=*,*+v=*,*+z=*,*+j=*,*+dj=*,*+l=*,*+lh=*,*+rw=*,*+b=*,*+d=*,*+g=*,*+r=*,*+rr=*,*+axh=*}
 
-QS  "L-VUV_Unvoiced"        {*^i0-*,*^u0-*,*^f-*,*^h-*,*^s-*,*^sh-*,*^x-*,*^ch-*,*^p-*,*^t-*,*^k-*}
-QS  "C-VUV_Unvoiced"        {*-i0+*,*-u0+*,*-f+*,*-h+*,*-s+*,*-sh+*,*-x+*,*-ch+*,*-p+*,*-t+*,*-k+*}
-QS  "R-VUV_Unvoiced"        {*+i0=*,*+u0=*,*+f=*,*+h=*,*+s=*,*+sh=*,*+x=*,*+ch=*,*+p=*,*+t=*,*+k=*}
+QS  "L-VUV_Unvoiced"        {*^i0-*,*^u0-*,*^f-*,*^h-*,*^s-*,*^sh-*,*^x-*,*^ch-*,*^p-*,*^t-*,*^k-*,*^exh-*,*^sil-*,*^pau-*}
+QS  "C-VUV_Unvoiced"        {*-i0+*,*-u0+*,*-f+*,*-h+*,*-s+*,*-sh+*,*-x+*,*-ch+*,*-p+*,*-t+*,*-k+*,*-exh+*,*-sil+*,*-pau+*}
+QS  "R-VUV_Unvoiced"        {*+i0=*,*+u0=*,*+f=*,*+h=*,*+s=*,*+sh=*,*+x=*,*+ch=*,*+p=*,*+t=*,*+k=*,*+exh=*,*+sil=*,*+pau=*}
 
 QS  "L-pau"                 {*^pau-*}
 QS  "C-pau"                 {*-pau+*}
@@ -76,15 +77,15 @@ QS  "R-pau"                 {*+pau=*}
 QS  "L-sil"                 {*^sil-*}
 QS  "C-sil"                 {*-sil+*}
 QS  "R-sil"                 {*+sil=*}
+QS  "L-br"                  {*^br-*}
+QS  "C-br"                  {*-br+*}
+QS  "R-br"                  {*+br=*}
 QS  "L-exh"                 {*^exh-*}
 QS  "C-exh"                 {*-exh+*}
 QS  "R-exh"                 {*+exh=*}
 QS  "L-axh"                 {*^axh-*}
 QS  "C-axh"                 {*-axh+*}
 QS  "R-axh"                 {*+axh=*}
-QS  "L-br"                  {*^br-*}
-QS  "C-br"                  {*-br+*}
-QS  "R-br"                  {*+br=*}
 QS  "L-cl"                  {*^cl-*}
 QS  "C-cl"                  {*-cl+*}
 QS  "R-cl"                  {*+cl=*}
@@ -151,9 +152,6 @@ QS  "R-w"                   {*+w=*}
 QS  "L-b"                   {*^b-*}
 QS  "C-b"                   {*-b+*}
 QS  "R-b"                   {*+b=*}
-QS  "L-bv"                  {*^bv-*}
-QS  "C-bv"                  {*-bv+*}
-QS  "R-bv"                  {*+bv=*}
 QS  "L-d"                   {*^d-*}
 QS  "C-d"                   {*-d+*}
 QS  "R-d"                   {*+d=*}
@@ -166,9 +164,6 @@ QS  "R-f"                   {*+f=*}
 QS  "L-g"                   {*^g-*}
 QS  "C-g"                   {*-g+*}
 QS  "R-g"                   {*+g=*}
-QS  "L-gv"                  {*^gv-*}
-QS  "C-gv"                  {*-gv+*}
-QS  "R-gv"                  {*+gv=*}
 QS  "L-k"                   {*^k-*}
 QS  "C-k"                   {*-k+*}
 QS  "R-k"                   {*+k=*}
@@ -193,18 +188,15 @@ QS  "R-nh"                  {*+nh=*}
 QS  "L-p"                   {*^p-*}
 QS  "C-p"                   {*-p+*}
 QS  "R-p"                   {*+p=*}
-QS  "L-xr"                  {*^xr-*}
-QS  "C-xr"                  {*-xr+*}
-QS  "R-xr"                  {*+xr=*}
-QS  "L-hr"                  {*^hr-*}
-QS  "C-hr"                  {*-hr+*}
-QS  "R-hr"                  {*+hr=*}
+QS  "L-xr"                  {*^rw-*}
+QS  "C-xr"                  {*-rw+*}
+QS  "R-xr"                  {*+rw=*}
 QS  "L-r"                   {*^r-*}
 QS  "C-r"                   {*-r+*}
 QS  "R-r"                   {*+r=*}
-QS  "L-rr"                  {*^rh-*}
-QS  "C-rr"                  {*-rh+*}
-QS  "R-rr"                  {*+rh=*}
+QS  "L-rh"                  {*^rh-*}
+QS  "C-rh"                  {*-rh+*}
+QS  "R-rh"                  {*+rh=*}
 QS  "L-rr"                  {*^rr-*}
 QS  "C-rr"                  {*-rr+*}
 QS  "R-rr"                  {*+rr=*}
@@ -310,14 +302,3 @@ CQS "e25_position_by_percent"   {[(\d+)|}
 # pitch diff
 CQS "e57" {~([pm]\d+)+}
 CQS "e58" {+([pm]\d+)!}
-
-# taken from ENUNU
-CQS "e57" {~([pm]\d+)+}
-CQS "e58" {+([pm]\d+)!}
-
-CQS "f2" {#(\d+)#}
-CQS "f3" {#(\d+)-}
-
-CQS "f6" {$(\d+)+}
-CQS "f7" {+(\d+)%}
-CQS "f8" {%(\d+);}
