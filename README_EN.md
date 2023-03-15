@@ -13,7 +13,7 @@ This repository provides hed files and the dictionary table to create an AI sing
   
  2. /dic
 
-	`brapa_phonemes.table` - table containing all the phonemes on BRAPA list
+	`brapa.table` - table containing all the phonemes on BRAPA list
 
 ## 🎶 Example
 Example of model trained with 8 minutes of data, using [OpenUtau](https://github.com/stakira/OpenUtau) as an editing tool
