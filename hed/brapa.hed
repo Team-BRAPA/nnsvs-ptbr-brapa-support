@@ -134,6 +134,9 @@ QS  "R-un"                  {*+un=*}
 QS  "L-u0"                  {*^u0-*}
 QS  "C-u0"                  {*-u0+*}
 QS  "R-u0"                  {*+u0=*}
+QS  "L-rh"                  {*^rh-*}
+QS  "C-rh"                  {*-rh+*}
+QS  "R-rh"                  {*+rh=*}
 QS  "L-b"                   {*^b-*}
 QS  "C-b"                   {*-b+*}
 QS  "R-b"                   {*+b=*}
@@ -191,9 +194,6 @@ QS  "R-rw"                  {*+rw=*}
 QS  "L-r"                   {*^r-*}
 QS  "C-r"                   {*-r+*}
 QS  "R-r"                   {*+r=*}
-QS  "L-rh"                  {*^rh-*}
-QS  "C-rh"                  {*-rh+*}
-QS  "R-rh"                  {*+rh=*}
 QS  "L-rr"                  {*^rr-*}
 QS  "C-rr"                  {*-rr+*}
 QS  "R-rr"                  {*+rr=*}
