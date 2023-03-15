@@ -2,8 +2,6 @@ This project and any files providaded may be used for non-commercial use only.
 
 For commercial use and other licensing, please contact me (overdramatic.hide@gmail.com) or others from Team BRAPA
 
-Some of the phonemes used in this project is made using [DYVAUX](https://github.com/DYVAUX)'s files with their consentment. Please check their [LICENSE](https://github.com/DYVAUX/nnsvs-romance-language-support/blob/main/LICENSE.md)
-
 A different license may be provided for specific files/components. Files from other sources will have its own license terms from its authors and will be included with those files.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

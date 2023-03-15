@@ -2,7 +2,7 @@
 # Made by Team BRAPA
 # in_dim: 247(duration/timelag), 251(acoustic)
 # in_rest_idx: 1
-# in_lfx0_idx: 217
+# in_lfx0_idx: 202
 # vowels: a,ax,an,e,en,eh,ae,i,in,i0,o,on,oh,u,un,u0,rh
 
 # Phonetic definitions
@@ -134,6 +134,9 @@ QS  "R-un"                  {*+un=*}
 QS  "L-u0"                  {*^u0-*}
 QS  "C-u0"                  {*-u0+*}
 QS  "R-u0"                  {*+u0=*}
+QS  "L-rh"                  {*^rh-*}
+QS  "C-rh"                  {*-rh+*}
+QS  "R-rh"                  {*+rh=*}
 QS  "L-b"                   {*^b-*}
 QS  "C-b"                   {*-b+*}
 QS  "R-b"                   {*+b=*}
@@ -185,18 +188,15 @@ QS  "R-nh"                  {*+nh=*}
 QS  "L-p"                   {*^p-*}
 QS  "C-p"                   {*-p+*}
 QS  "R-p"                   {*+p=*}
-QS  "L-rw"                  {*^rw-*}
-QS  "C-rw"                  {*-rw+*}
-QS  "R-rw"                  {*+rw=*}
 QS  "L-r"                   {*^r-*}
 QS  "C-r"                   {*-r+*}
 QS  "R-r"                   {*+r=*}
-QS  "L-rh"                  {*^rh-*}
-QS  "C-rh"                  {*-rh+*}
-QS  "R-rh"                  {*+rh=*}
 QS  "L-rr"                  {*^rr-*}
 QS  "C-rr"                  {*-rr+*}
 QS  "R-rr"                  {*+rr=*}
+QS  "L-rw"                  {*^rw-*}
+QS  "C-rw"                  {*-rw+*}
+QS  "R-rw"                  {*+rw=*}
 QS  "L-s"                   {*^s-*}
 QS  "C-s"                   {*-s+*}
 QS  "R-s"                   {*+s=*}

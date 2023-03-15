@@ -11,8 +11,6 @@ Este repositório fornece arquivos hed e a tabela dicionário para criar um mode
  
 	 `brapa.hed` - arquivo .hed contendo os fonemas mais comuns entre os sotaques do Brasil para o treino 
 	 
-	 `brapa_full.hed` - arquivo .hed contendo TODOS os fonemas da lista BRAPA - ⚠️ Adicionado para estudos, não recomendado a utilização
-	 
  2. /dic
  
 	 `brapa_phonemes.table` - tabela contendo todos os fonemas da lista BRAPA
