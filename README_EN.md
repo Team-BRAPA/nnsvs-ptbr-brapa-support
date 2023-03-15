@@ -10,8 +10,6 @@ This repository provides hed files and the dictionary table to create an AI sing
  1. /hed 
 
  	`brapa.hed` - .hed file containing the most common phonemes among Brazilian accents for training
-
- 	`brapa_full.hed` - .hed file containing the ALL the phonemes available on BRAPA sheet -⚠️ Added for study purposes, not recommended
   
  2. /dic
 
