@@ -23,9 +23,9 @@ QS  "L-Semi-Vowels"         {*^y-*,*^w-*}
 QS  "C-Semi-Vowels"         {*-y+*,*-w+*}
 QS  "R-Semi-Vowels"         {*+y=*,*+w=*}
 
-QS  "L-Consonants"          {*^b-*,*^ch-*,*^d-*,*^dj-*,*^f-*,*^g-*,*^h-*,*^j-*,*^k-*,*^l-*,*^lh-*,*^m-*,*^n-*,*^ng-*,*^nh-*,*^p-*,*^r-*,*^rr-*,*^rw-*,*^s-*,*^sh-*,*^t-*,*^v-*,*^x-*,*^z-*}
-QS  "C-Consonants"          {*-b+*,*-ch+*,*-d+*,*-dj+*,*-f+*,*-g+*,*-h+*,*-j+*,*-k+*,*-l+*,*-lh+*,*-m+*,*-n+*,*-ng+*,*-nh+*,*-p+*,*-r+*,*-rr+*,*-rw+*,*-s+*,*-sh+*,*-t+*,*-v+*,*-x+*,*-z+*}
-QS  "R-Consonants"          {*+b=*,*+ch=*,*+d=*,*+dj=*,*+f=*,*+g=*,*+h=*,*+j=*,*+k=*,*+l=*,*+lh=*,*+m=*,*+n=*,*+ng=*,*+nh=*,*+p=*,*+r=*,*+rr=*,*+rw=*,*+s=*,*+sh=*,*+t=*,*+v=*,*+x=*,*+z=*}
+QS  "L-Consonants"          {*^b-*,*^ch-*,*^d-*,*^dj-*,*^f-*,*^g-*,*^h-*,*^hr-*,*^j-*,*^k-*,*^l-*,*^lh-*,*^m-*,*^n-*,*^ng-*,*^nh-*,*^p-*,*^r-*,*^rr-*,*^rw-*,*^s-*,*^sh-*,*^t-*,*^v-*,*^x-*,*^z-*}
+QS  "C-Consonants"          {*-b+*,*-ch+*,*-d+*,*-dj+*,*-f+*,*-g+*,*-h+*,*-hr+*,*-j+*,*-k+*,*-l+*,*-lh+*,*-m+*,*-n+*,*-ng+*,*-nh+*,*-p+*,*-r+*,*-rr+*,*-rw+*,*-s+*,*-sh+*,*-t+*,*-v+*,*-x+*,*-z+*}
+QS  "R-Consonants"          {*+b=*,*+ch=*,*+d=*,*+dj=*,*+f=*,*+g=*,*+h=*,*+hr=*,*+j=*,*+k=*,*+l=*,*+lh=*,*+m=*,*+n=*,*+ng=*,*+nh=*,*+p=*,*+r=*,*+rr=*,*+rw=*,*+s=*,*+sh=*,*+t=*,*+v=*,*+x=*,*+z=*}
 
 QS  "L-Nasals"              {*^m-*,*^n-*,*^ng-*,*^nh-*}
 QS  "C-Nasals"              {*-m+*,*-n+*,*-ng+*,*-nh+*}
@@ -35,9 +35,9 @@ QS  "L-UnvoicedFricatives"  {*^f-*,*^h-*,*^s-*,*^sh-*,*^x-*}
 QS  "C-UnvoicedFricatives"  {*-f+*,*-h+*,*-s+*,*-sh+*,*-x+*}
 QS  "R-UnvoicedFricatives"  {*+f=*,*+h=*,*+s=*,*+sh=*,*+x=*}
 
-QS  "L-VoicedFricatives"    {*^j-*,*^v-*,*^z-*}
-QS  "C-VoicedFricatives"    {*-j+*,*-v+*,*-z+*}
-QS  "R-VoicedFricatives"    {*+j=*,*+v=*,*+z=*}
+QS  "L-VoicedFricatives"    {*^hr-*,*^j-*,*^v-*,*^z-*}
+QS  "C-VoicedFricatives"    {*-hr+*,*-j+*,*-v+*,*-z+*}
+QS  "R-VoicedFricatives"    {*+h=*,*+j=*,*+v=*,*+z=*}
 
 QS  "L-UnvoicedAfricates"   {*^ch-*}
 QS  "C-UnvoicedAfricates"   {*-ch+*}
@@ -59,9 +59,9 @@ QS  "L-VoicedPlosives"      {*^b-*,*^d-*,*^g-*,*^r-*,*^rr-*}
 QS  "C-VoicedPlosives"      {*-b+*,*-d+*,*-g+*,*-r+*,*-rr+*}
 QS  "R-VoicedPlosives"      {*+b=*,*+d=*,*+g=*,*+r=*,*+rr=*}
 
-QS  "L-Rhotic"              {*^h-*,*^rw-*,*^x-*}
-QS  "C-Rhotic"              {*-h+*,*-rw+*,*-x+*}
-QS  "R-Rhotic"              {*+h=*,*+rw=*,*+x=*}
+QS  "L-Rhotic"              {*^h-*,*^hr-*,*^rh-*,*^rw-*,*^x-*}
+QS  "C-Rhotic"              {*-h+*,*-hr+*,*-rh+*,*-rw+*,*-x+*}
+QS  "R-Rhotic"              {*+h=*,*+hr=*,*+rh=*,*+rw=*,*+x=*}
 
 QS  "L-VUV_Voiced"          {*^a-*,*^ax-*,*^an-*,*^e-*,*^en-*,*^eh-*,*^ae-*,*^i-*,*^in-*,*^o-*,*^on-*,*^oh-*,*^u-*,*^un-*,*^rh-*,*^y-*,*^w-*,*^m-*,*^n-*,*^ng-*,*^nh-*,*^v-*,*^z-*,*^j-*,*^dj-*,*^l-*,*^lh-*,*^rw-*,*^b-*,*^d-*,*^g-*,*^r-*,*^rr-*,^axh-*}
 QS  "C-VUV_Voiced"          {*-a+*,*-ax+*,*-an+*,*-e+*,*-en+*,*-eh+*,*-ae+*,*-i+*,*-in+*,*-o+*,*-on+*,*-oh+*,*-u+*,*-un+*,*-rh+*,*-y+*,*-w+*,*-m+*,*-n+*,*-ng+*,*-nh+*,*-v+*,*-z+*,*-j+*,*-dj+*,*-l+*,*-lh+*,*-rw+*,*-b+*,*-d+*,*-g+*,*-r+*,*-rr+*,*-axh+*}
@@ -80,21 +80,12 @@ QS  "R-sil"                 {*+sil=*}
 QS  "L-br"                  {*^br-*}
 QS  "C-br"                  {*-br+*}
 QS  "R-br"                  {*+br=*}
-QS  "L-exh"                 {*^exh-*}
-QS  "C-exh"                 {*-exh+*}
-QS  "R-exh"                 {*+exh=*}
-QS  "L-axh"                 {*^axh-*}
-QS  "C-axh"                 {*-axh+*}
-QS  "R-axh"                 {*+axh=*}
 QS  "L-cl"                  {*^cl-*}
 QS  "C-cl"                  {*-cl+*}
 QS  "R-cl"                  {*+cl=*}
 QS  "L-vf"                  {*^vf-*}
 QS  "C-vf"                  {*-vf+*}
 QS  "R-vf"                  {*+vf=*}
-QS  "L-q"                   {*^q-*}
-QS  "C-q"                   {*-q+*}
-QS  "R-q"                   {*+q=*}
 QS  "L-a"                   {*^a-*}
 QS  "C-a"                   {*-a+*}
 QS  "R-a"                   {*+a=*}
@@ -143,15 +134,12 @@ QS  "R-un"                  {*+un=*}
 QS  "L-u0"                  {*^u0-*}
 QS  "C-u0"                  {*-u0+*}
 QS  "R-u0"                  {*+u0=*}
-QS  "L-y"                   {*^y-*}
-QS  "C-y"                   {*-y+*}
-QS  "R-y"                   {*+y=*}
-QS  "L-w"                   {*^w-*}
-QS  "C-w"                   {*-w+*}
-QS  "R-w"                   {*+w=*}
 QS  "L-b"                   {*^b-*}
 QS  "C-b"                   {*-b+*}
 QS  "R-b"                   {*+b=*}
+QS  "L-ch"                  {*^ch-*}
+QS  "C-ch"                  {*-ch+*}
+QS  "R-ch"                  {*+ch=*}
 QS  "L-d"                   {*^d-*}
 QS  "C-d"                   {*-d+*}
 QS  "R-d"                   {*+d=*}
@@ -164,6 +152,15 @@ QS  "R-f"                   {*+f=*}
 QS  "L-g"                   {*^g-*}
 QS  "C-g"                   {*-g+*}
 QS  "R-g"                   {*+g=*}
+QS  "L-h"                   {*^h-*}
+QS  "C-h"                   {*-h+*}
+QS  "R-h"                   {*+h=*}
+QS  "L-hr"                  {*^hr-*}
+QS  "C-hr"                  {*-hr+*}
+QS  "R-hr"                  {*+hr=*}
+QS  "L-j"                   {*^j-*}
+QS  "C-j"                   {*-j+*}
+QS  "R-j"                   {*+j=*}
 QS  "L-k"                   {*^k-*}
 QS  "C-k"                   {*-k+*}
 QS  "R-k"                   {*+k=*}
@@ -200,9 +197,6 @@ QS  "R-rh"                  {*+rh=*}
 QS  "L-rr"                  {*^rr-*}
 QS  "C-rr"                  {*-rr+*}
 QS  "R-rr"                  {*+rr=*}
-QS  "L-h"                   {*^h-*}
-QS  "C-h"                   {*-h+*}
-QS  "R-h"                   {*+h=*}
 QS  "L-s"                   {*^s-*}
 QS  "C-s"                   {*-s+*}
 QS  "R-s"                   {*+s=*}
@@ -212,18 +206,18 @@ QS  "R-sh"                  {*+sh=*}
 QS  "L-t"                   {*^t-*}
 QS  "C-t"                   {*-t+*}
 QS  "R-t"                   {*+t=*}
-QS  "L-ch"                  {*^ch-*}
-QS  "C-ch"                  {*-ch+*}
-QS  "R-ch"                  {*+ch=*}
 QS  "L-v"                   {*^v-*}
 QS  "C-v"                   {*-v+*}
 QS  "R-v"                   {*+v=*}
+QS  "L-w"                   {*^w-*}
+QS  "C-w"                   {*-w+*}
+QS  "R-w"                   {*+w=*}
 QS  "L-x"                   {*^x-*}
 QS  "C-x"                   {*-x+*}
 QS  "R-x"                   {*+x=*}
-QS  "L-j"                   {*^j-*}
-QS  "C-j"                   {*-j+*}
-QS  "R-j"                   {*+j=*}
+QS  "L-y"                   {*^y-*}
+QS  "C-y"                   {*-y+*}
+QS  "R-y"                   {*+y=*}
 QS  "L-z"                   {*^z-*}
 QS  "C-z"                   {*-z+*}
 QS  "R-z"                   {*+z=*}
